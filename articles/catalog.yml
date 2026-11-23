@@ -2,9 +2,12 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - aboutWais.re
+  - IQ.re
+  - result.re
 
 APPENDIX:
 
 POSTDEF:
+  - postscript.re
   - contributors.re
